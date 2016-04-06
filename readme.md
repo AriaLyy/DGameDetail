@@ -1,0 +1,1 @@
+![](https://github.com/AriaLyy/DGameDetail/blob/master/detail.gif)
