@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:bottom="0dp" android:left="2dp" android:right="0dp" android:shape="rectangle" android:top="2dp">
+            <solid android:color="@color/transparent" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:bottom="0dp" android:left="2dp" android:right="0dp" android:shape="rectangle" android:top="2dp">
+            <solid android:color="@color/click_pressed" />
+        </shape>
+    </item>
+
+</selector>

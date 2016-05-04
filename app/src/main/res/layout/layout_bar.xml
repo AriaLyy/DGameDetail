@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tool_bar"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/tool_bar_height"
+    android:fitsSystemWindows="true">
+
+    <View
+        android:id="@+id/bar_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:paddingLeft="-5dp"
+        android:paddingRight="8dp"
+        android:text="test"
+        android:textColor="#fff"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/download_manager"
+        style="@style/BarImgStyle"
+        android:layout_alignParentRight="true"
+        android:onClick="onClick"
+        android:scaleType="fitCenter"
+        android:src="@mipmap/icon_download" />
+
+</RelativeLayout>

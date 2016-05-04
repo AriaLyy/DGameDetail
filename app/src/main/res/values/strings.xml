@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DGameDetail</string>
+
+    <string-array name="img_shot">
+        <item>http://static.gaoshouyou.com/i/f3/48/1ef3e51a12481c387eea46307f2a9803.JPG</item>
+        <item>http://static.gaoshouyou.com/i/c8/5e/50c86448cf5e6d6087d84720b209b03a.JPG</item>
+        <item>http://static.gaoshouyou.com/i/54/05/3454d409bd058bec62c9e1ee45d74638.JPG</item>
+        <item>http://static.gaoshouyou.com/i/9f/c7/aa9f82eda2c7c6c904e82bd07d5797fd.JPG</item>
+        <item>http://static.gaoshouyou.com/i/b1/e5/26b14ff8abe53e64050afcc577b01c6c.JPG</item>
+        <item>http://static.gaoshouyou.com/i/42/cc/3742d2059bccea869b4f31cf72e0448e.JPG</item>
+        <item>http://static.gaoshouyou.com/i/be/d7/cabe97fa7dd7c4fb90660c1f2fd99557.JPG</item>
+        <item>http://static.gaoshouyou.com/i/86/37/808608a54737c6e571cb6405203ba5da.JPG</item>
+    </string-array>
+
+    <string name="test">
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+        测试数据\n  测试数据\n  测试数据\n
+    </string>
+
+    <string-array name="list_data">
+        <item>hello C</item>
+        <item>hello JAVA</item>
+        <item>hello ANDROID</item>
+        <item>hello Python</item>
+        <item>hello RUBY</item>
+        <item>hello RAILS</item>
+        <item>hello DJANGO</item>
+        <item>hello SPRING</item>
+        <item>hello PHP</item>
+        <item>hello TP</item>
+        <item>hello SWIFT</item>
+        <item>hello IOS</item>
+        <item>hello C++</item>
+        <item>hello C#</item>
+        <item>hello R</item>
+        <item>hello D</item>
+        <item>hello LUA</item>
+        <item>hello XML</item>
+        <item>hello HTML</item>
+        <item>hello PERL</item>
+        <item>hello PL</item>
+    </string-array>
+</resources>
