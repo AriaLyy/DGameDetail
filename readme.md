@@ -1,7 +1,7 @@
 # Android 仿当乐游戏详情界面
 详情见[我的blog](http://www.jianshu.com/p/7f767c6f880f)</br>
 如果你觉得我的代码对你有帮助，请麻烦你在右上角给我一个star.`^_^`</br>
-
+ 
 ![效果](https://github.com/AriaLyy/DGameDetail/blob/master/img/the-final.gif)
 
 License
