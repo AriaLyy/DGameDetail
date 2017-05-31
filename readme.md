@@ -3,6 +3,7 @@
 如果你觉得我的代码对你有帮助，请麻烦你在右上角给我一个star。`^_^`</br>
  
 ![效果](https://github.com/AriaLyy/DGameDetail/blob/master/img/the-final.gif)
+
 License
 -------
 
